@@ -16,7 +16,7 @@ busybot is used as a collaborative to-do list where everyone can assign either t
 > an example of assigning a task
 
 * **Please do confirm with an acknowledgement upon receiving a task**
-  * refer to [Acknowledgement procedure](#acknowledgement-procedure)
+  * refer to the [acknowledgement procedure](#markdown-header-acknowledgement-procedure)
 
 ---
 #### limibot usage
@@ -30,7 +30,7 @@ Everyday at 9pm local time (subject to change), every employee is expected to pa
 
 * please include as much detail as possible and do not worry about any mistakes in grammar or spelling.
 
-* __DO NOT POST DIRECTLY TO THE STANDUP CHANNEL__: limibot will ask you the questions and automatically populate #standup
+* DO NOT POST DIRECTLY TO THE STANDUP CHANNEL; limibot will ask you the questions and automatically populate #standup
 ---
 #### Acknowledgement procedure
 
@@ -45,6 +45,8 @@ The process for acknowledgement is simple:
 * Mobile:
 ![mobileAcknowledgement](img/acknowledgementmobile.jpg)
   * Add reaction button is to the bottom left corner on mobile.
+
+* If you have any questions feel free to directly message @hunsaker or @aameer on slack and we will try out best to get back to you as soon as possible.
 
 ---
 last edited and verified by Andrew Hunsaker on 3.7.2017
