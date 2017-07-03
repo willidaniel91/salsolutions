@@ -16,7 +16,7 @@ busybot is used as a collaborative to-do list where everyone can assign either t
 > an example of assigning a task
 
 * **Please do confirm with an acknowledgement upon receiving a task**
-  * refer to the [acknowledgement procedure](#markdown-header-acknowledgement-procedure)
+  * refer to the [acknowledgement procedure](#acknowledgement-procedure)
 
 ---
 #### limibot usage
