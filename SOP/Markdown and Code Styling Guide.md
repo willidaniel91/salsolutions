@@ -6,8 +6,7 @@ Markdown is a very easy to use text formatter. We will be using markdown (files 
 )
 
 Keep in mind that, converting a .md file to a .pdf file is very easy and you can refer to
- [Markdown_to_PDF072017.md](/Markdown_to_PDF072017)
-
+[this](src/SOP/Markdown_to_PDF072017.md) for assistance.
 ---
 #### Standard Operating Procedures
 * Following SOPs when achieving tasks will allow other team members to carry on where you left off and will make it easier for any possible corrections in the future that may need to be made.
@@ -17,3 +16,6 @@ Keep in mind that, converting a .md file to a .pdf file is very easy and you can
 
 ---
 #### Code Style
+
+---
+last edited and verified by Andrew Hunsaker on 3.7.2017
