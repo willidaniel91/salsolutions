@@ -5,7 +5,7 @@ All work related communications between employees should be done in slack. Using
 
 ##### Sal Solutions slack Group
 
-* the slack group address is [salsolutions.slack.com](salsolutions.slack.com)
+* the slack group address is [salsolutions.slack.com](http://salsolutions.slack.com)
 
 ---
 #### busybot usage
@@ -15,8 +15,8 @@ busybot is used as a collaborative to-do list where everyone can assign either t
 
 > an example of assigning a task
 
-* **Please do confirm with any sort of reply if you have received a task**
-  * a simple acknowledgement such as an emoji or a text response such as "understood" will do
+* **Please do confirm with an acknowledgement upon receiving a task**
+  * refer to [Acknowledgement procedure](#acknowledgement-procedure)
 
 ---
 #### limibot usage
@@ -30,5 +30,21 @@ Everyday at 9pm local time (subject to change), every employee is expected to pa
 
 * please include as much detail as possible and do not worry about any mistakes in grammar or spelling.
 
+* __DO NOT POST DIRECTLY TO THE STANDUP CHANNEL__: limibot will ask you the questions and automatically populate #standup
 ---
-last edited and verified by Andrew Hunsaker on 2.7.2017
+#### Acknowledgement procedure
+
+Though the ability to make channel-wide announcements and assign tasks to each other is important, it is entirely without an acknowledgement procedure. An acknowledgement is just proof that you have read the announcement or task that was assigned to you. We will use slack's built-in emoji's for acknowledgement.
+
+The process for acknowledgement is simple:
+1. Read and _make sure_ you __clearly__ understand the content.
+2. Hover over (desktop) or select and message (mobile) and select the "Add reaction..." button:
+
+* Desktop: ![desktopAcknowledgement](img/acknowledgementdesktop.gif)
+
+* Mobile:
+![mobileAcknowledgement](img/acknowledgementmobile.jpg)
+  * Add reaction button is to the bottom left corner on mobile.
+
+---
+last edited and verified by Andrew Hunsaker on 3.7.2017

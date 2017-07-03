@@ -11,7 +11,7 @@ Converting a .txt file in markdown is easily done using markdown-pdf.
 $npm install -g markdown-pdf
 ```
 
-3. Make sure the file in question ends with a .txt or .md (* being any string of characters)
+3. Make sure the file in question ends with a .txt or .md (* being any string of characters).
 
 4. Back in the terminal window:
 ```bash
