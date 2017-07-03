@@ -11,7 +11,7 @@ All work related communications between employees should be done in slack. Using
 #### busybot usage
 busybot is used as a collaborative to-do list where everyone can assign either themselves or other people tasks to. You can set a due date, set subtasks and much more. Our use of busybot will, for the moment, be limited to simple assignments and tracking of tasks:
 
-![busybotexample](img/busybotexample.gif)
+![busybotexample](../img/busybotexample.gif)
 
 > an example of assigning a task
 
@@ -22,7 +22,7 @@ busybot is used as a collaborative to-do list where everyone can assign either t
 #### limibot usage
 Everyday at 9pm local time (subject to change), every employee is expected to participate in the standup meeting via limibot. The process is pretty straight forward and all you need to do is honestly answer a series of questions.  
 
-![limibotexample](img/limibotexample.gif)
+![limibotexample](../img/limibotexample.gif)
 
 > this is an example output from completing the daily standup
 
@@ -40,10 +40,10 @@ The process for acknowledgement is simple:
 1. Read and _make sure_ you __clearly__ understand the content.
 2. Hover over (desktop) or select and message (mobile) and select the "Add reaction..." button:
 
-* Desktop: ![desktopAcknowledgement](img/acknowledgementdesktop.gif)
+* Desktop: ![desktopAcknowledgement](../img/acknowledgementdesktop.gif)
 
 * Mobile:
-![mobileAcknowledgement](img/acknowledgementmobile.jpg)
+![mobileAcknowledgement](../img/acknowledgementmobile.jpg)
   * Add reaction button is to the bottom left corner on mobile.
 
 * If you have any questions feel free to directly message @hunsaker or @aameer on slack and we will try out best to get back to you as soon as possible.
