@@ -74,4 +74,4 @@ The process for acknowledgement is simple:
 * If you have any questions feel free to directly message @hunsaker or @aameer on slack and we will try out best to get back to you as soon as possible.
 
 ---
-last edited and verified by Andrew Hunsaker on 3.7.2017
+last edited and verified by Andrew Hunsaker on 4.7.2017
