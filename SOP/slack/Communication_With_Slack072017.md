@@ -26,14 +26,22 @@ All work related communications between employees should be done in slack. Using
 
 ---
 #### busybot usage
-busybot is used as a collaborative to-do list where everyone can assign either themselves or other people tasks to. You can set a due date, set subtasks and much more. Our use of busybot will, for the moment, be limited to simple assignments and tracking of tasks:
+busybot is used as a collaborative to-do list where everyone can assign tasks to him/herself or any other member of the team. You can set a due date, set subtasks and much more. Our use of busybot will, for the moment, be limited to simple assignments and tracking of tasks.
+
+* How to assign a task:
+
+1. send a direct message to busybot *or* in any chat box type: ```/busybot [@person to assign to] [task to do] [due date]```
+
+>  /busybot @ahunsaker Do something important by tomorrow at 2pm
 
 ![busybotexample](../img/busybotexample.gif)
 
-> an example of assigning a task
-
 * **Please do confirm with an acknowledgement upon receiving a task**
   * refer to the [acknowledgement procedure](#acknowledgement-procedure)
+
+* How to see a list of all tasks:
+1. send a direct message to busybot: ```list [@person] **or** [#channel]``` or...
+2. in any chat box type: ```/busybot list [@person] **or** [#channel]```
 
 ---
 #### limibot usage
