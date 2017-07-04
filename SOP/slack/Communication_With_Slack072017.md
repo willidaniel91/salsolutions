@@ -1,7 +1,7 @@
 #### Communication With Slack
 
 ---
-All work related communications between employees should be done in slack. Using _slack_ and its many extensions, you can assign tasks to yourself or other employees and its daily standup functionality will allow all employees to better track progress as well as productivity.
+All work-related communication between employees should be done in slack. Using _slack_ and its many extensions, you can assign tasks to yourself or other employees and its daily standup functionality will allow all employees to better track progress as well as productivity.
 
 ##### Sal Solutions slack Group
 
@@ -59,7 +59,7 @@ Everyday at 9pm local time (subject to change), every employee is expected to pa
 ---
 #### Acknowledgement procedure
 
-Though the ability to make channel-wide announcements and assign tasks to each other is important, it is entirely useless without an acknowledgement from the task assignee that he/she is aware of the assignment. An acknowledgement, in this case can be anything that can act as proof that you have read the announcement or task that was assigned to you. **We will use slack's built-in emoji's for acknowledgement.**
+Though the ability to make channel-wide announcements and assign tasks to each other is important, it is entirely useless without an acknowledgement from the task assignee that he/she is aware of the assignment. **We will use slack's built-in emoji's for acknowledging announcements in #general and tasks assigned from others.**
 
 The process for acknowledgement is simple:
 1. Read and _make sure_ you __clearly__ understand the content.
