@@ -5,7 +5,24 @@ All work related communications between employees should be done in slack. Using
 
 ##### Sal Solutions slack Group
 
-* the slack group address is [salsolutions.slack.com](http://salsolutions.slack.com)
+* The slack group address is [salsolutions.slack.com](http://salsolutions.slack.com)
+
+##### ID Naming convention
+
+* For the sake of simplicity and better organization the user names for Sal Solutions will follow the following format:
+
+> **[first letter of your first name][your last name]**
+
+* Example: my full name is Andrew Hunsaker so my slack id is **@ahunsaker**
+###### Changing your username
+1. Click on the drop bar next to your name on the left. nav bar ![profileAccount](../img/profileAccount.gif)
+2. Click on the **Account Settings** wheel. ![editProfile](../img/settingsWheel.gif)
+3. Click **Expand** next to the username section, change your user name and click **Save**. ![userNameChange](../img/userNameChange.gif)
+###### Editing your profile
+1. Click on the drop bar next to your name on the left. nav bar ![profileAccount](../img/profileAccount.gif)
+2. Enter your full name, your phone number (local number only for now) as well as your time zone. ![editProfile](../img/editProfile.gif)
+
+
 
 ---
 #### busybot usage
@@ -20,17 +37,17 @@ busybot is used as a collaborative to-do list where everyone can assign either t
 
 ---
 #### limibot usage
-Everyday at 9pm local time (subject to change), every employee is expected to participate in the standup meeting via limibot. The process is pretty straight forward and all you need to do is honestly answer a series of questions.  
+Everyday at 9pm local time (subject to change), every employee is expected to participate in a standup meeting via limibot. The process is pretty straight forward: all you are expected to do is answer a series of questions.  
 
 ![limibotexample](../img/limibotexample.gif)
 
 > this is an example output from completing the daily standup
 
-* the details of every employee will be available on the *__#standup__* channel on slack.
+* every employee's status update will be available on the *__#standup__* channel on slack.
 
-* please include as much detail as possible and do not worry about any mistakes in grammar or spelling.
+* please include as much detail as possible and do not worry too much about any faults in grammar or spelling.
 
-* DO NOT POST DIRECTLY TO THE STANDUP CHANNEL; limibot will ask you the questions and automatically populate #standup
+* DO NOT **EVER** POST DIRECTLY TO THE STANDUP CHANNEL; limibot will ask you the questions every night and automatically populate the #standup channel
 ---
 #### Acknowledgement procedure
 
