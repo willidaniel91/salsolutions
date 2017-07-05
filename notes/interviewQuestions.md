@@ -1,6 +1,6 @@
 ###BA Interview Questions
 ---
-Look up interview questions covering the following topics/technologies to study. 
+Look up interview questions covering the following topics/technologies to study.
 
 * Create a flow chart for salSolutions in PhotoShop. (Microsoft Visio or Azure)
 
@@ -15,3 +15,7 @@ Look up interview questions covering the following topics/technologies to study.
 * Jira Software
 
 * Find out flight date for New York
+
+
+
+* What is a VCS and what purpose does it serve?
