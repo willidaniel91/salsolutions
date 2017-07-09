@@ -26,4 +26,4 @@ Look up interview questions covering the following topics/technologies to study.
 
 * Who developed Git in what year? Linus Torvalds in 2005
 
-* 
+*
