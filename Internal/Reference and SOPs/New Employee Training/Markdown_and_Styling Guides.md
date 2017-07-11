@@ -20,8 +20,9 @@ The reason I opted to use markdown is because it is very easily convertible. For
 
 ---
 #### Code Style Guide
+[Markdown Style Guide](../)
 
-
+[Ruby Style Guide](../rubyOnRails/Ruby-Style-Guide072017.md)
 
 
 ---
@@ -31,4 +32,4 @@ The reason I opted to use markdown is because it is very easily convertible. For
 
 
 ---
-last edited and verified by Andrew Hunsaker on 3.7.2017
+last edited and verified by Andrew Hunsaker on 9.7.2017

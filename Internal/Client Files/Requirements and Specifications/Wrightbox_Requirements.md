@@ -40,7 +40,7 @@ This project will be strictly limited to the development and subsequent SEO of t
 
 ##### Functional Requirements (User Stories)
 
-Primary:
+Primary: 
 
 Secondary:
 
